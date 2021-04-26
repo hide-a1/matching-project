@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "amongus-matching"
+  },
+  "targets": {
+    "amongus-matching": {
+      "hosting": {
+        "matching-project": [
+          "amongus-matching"
+        ]
+      }
+    }
+  }
+}
